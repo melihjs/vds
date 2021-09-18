@@ -1,6 +1,4 @@
-# 𝕘𝕖𝕥𝕥𝕠𝗩𝗗𝗦
-
-Youtube Video: Yakında...
+# 𝗩𝗗𝗦
 
 Kod: NGROK_AUTH_TOKEN
 
